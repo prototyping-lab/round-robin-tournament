@@ -4,7 +4,7 @@ Im Modul *Innovation Design* treffen Teams paarweise aufeinander um sich Feedbac
 
 Dieses Node.js-skript generiert ein Rundenturnier nach dem von Schachturniren bekannten Rutschsystem.
 
-Beispiel-Output [hier](Beispiel.md).
+Beispiel-Output [hier](beispiel.md).
 
 
 ## Install
