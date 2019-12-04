@@ -1,0 +1,14 @@
+{
+  "name": "round-robin-tournament",
+  "version": "1.0.0",
+  "description": "Round Robin Tournament",
+  "main": "robin.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "bitcraftlab",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
